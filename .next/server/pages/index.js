@@ -16,7 +16,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _src_components_App__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../src/components/App */ "./src/components/App.js");
 
-var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents_PeterKellner\\pages\\index.js";
+var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents\\pages\\index.js";
 
 
 const IndexPage = () => {
@@ -1037,7 +1037,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _Speakers__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Speakers */ "./src/components/Speakers.js");
 
-var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents_PeterKellner\\src\\components\\App.js";
+var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents\\src\\components\\App.js";
 
 
 const App = () => {
@@ -1070,7 +1070,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _contexts_ThemeContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../contexts/ThemeContext */ "./src/contexts/ThemeContext.js");
 
 
-var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents_PeterKellner\\src\\components\\Header.js";
+var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents\\src\\components\\Header.js";
 
 
 const Header = () => {
@@ -1117,7 +1117,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _contexts_ThemeContext__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../contexts/ThemeContext */ "./src/contexts/ThemeContext.js");
 
 
-var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents_PeterKellner\\src\\components\\Speakers.js";
+var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents\\src\\components\\Speakers.js";
 
 
 
@@ -1177,7 +1177,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _withData__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./withData */ "./src/components/withData.js");
 
 
-var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents_PeterKellner\\src\\components\\SpeakersList.js";
+var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents\\src\\components\\SpeakersList.js";
 
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
 
@@ -1246,7 +1246,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "react/jsx-dev-runtime");
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
 
-var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents_PeterKellner\\src\\components\\ToolBar.js";
+var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents\\src\\components\\ToolBar.js";
 const Toolbar = ({
   showSessions,
   setShowSessions
@@ -1297,7 +1297,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "react/jsx-dev-runtime");
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
 
-var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents_PeterKellner\\src\\components\\withData.js";
+var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents\\src\\components\\withData.js";
 const withData = limitData => {
   return Component => {
     return props => {
@@ -1331,7 +1331,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 
-var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents_PeterKellner\\src\\contexts\\ThemeContext.js";
+var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents\\src\\contexts\\ThemeContext.js";
 
 const ThemeContext = /*#__PURE__*/(0,react__WEBPACK_IMPORTED_MODULE_1__.createContext)();
 const ThemeProvider = ({
@@ -1488,7 +1488,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
 
-var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents_PeterKellner\\src_\\components\\Sessions.js";
+var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents\\src_\\components\\Sessions.js";
 
 
 
@@ -1555,7 +1555,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _contexts_SpeakerContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../contexts/SpeakerContext */ "./src_/contexts/SpeakerContext.js");
 /* harmony import */ var _Sessions__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Sessions */ "./src_/components/Sessions.js");
 
-var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents_PeterKellner\\src_\\components\\Speaker.js";
+var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents\\src_\\components\\Speaker.js";
 
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
 
@@ -1745,7 +1745,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_placeholder_lib_reactPlaceholder_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(react_placeholder_lib_reactPlaceholder_css__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var _Hooks_useRequestSpeakers__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../Hooks/useRequestSpeakers */ "./src_/Hooks/useRequestSpeakers.js");
 
-var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents_PeterKellner\\src_\\components\\SpeakerList.js";
+var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents\\src_\\components\\SpeakerList.js";
 
 
 
@@ -1819,7 +1819,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _Hooks_useSpeakerFilter__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../Hooks/useSpeakerFilter */ "./src_/Hooks/useSpeakerFilter.js");
 
-var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents_PeterKellner\\src_\\contexts\\SpeakerContext.js";
+var _jsxFileName = "C:\\Ajit\\Projects\\ReactProjects\\React_DesigningComponents\\src_\\contexts\\SpeakerContext.js";
 
 
 const SpeakerFilterContext = /*#__PURE__*/(0,react__WEBPACK_IMPORTED_MODULE_1__.createContext)();
